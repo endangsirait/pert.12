@@ -87,3 +87,10 @@ while True:
     else :
         print('Pilih menu yang tersedia')
 print('Program Selesai')
+
+# <p>menambahkan data</p>
+
+![prakt 8](https://github.com/endangsirait/pert.12/assets/148036197/e0e17ec7-7156-4963-8b39-53d480c79420)
+![prakt8](https://github.com/endangsirait/pert.12/assets/148036197/00500416-e0ba-40f3-b30d-aebff3b6cd5a)
+
+
