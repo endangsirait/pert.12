@@ -11,6 +11,7 @@ README.md.</p>
 
 # <p>masukkan kode program</p>
 
+
 def hapus(nama):
     print(f"{'Data Berhasil di Hapus':^17}")
     print('='*17)
@@ -33,6 +34,7 @@ def salah():
     print('='*84)
     print(F"|{'Tidak ada data':^82}|")
     print('='*84)
+
     
 # <p>menambahkan data</p>
 
