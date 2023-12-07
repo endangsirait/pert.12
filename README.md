@@ -93,4 +93,21 @@ print('Program Selesai')
 ![prakt 8](https://github.com/endangsirait/pert.12/assets/148036197/e0e17ec7-7156-4963-8b39-53d480c79420)
 ![prakt8](https://github.com/endangsirait/pert.12/assets/148036197/00500416-e0ba-40f3-b30d-aebff3b6cd5a)
 
+# <p> menampilkan data</p>
+
+![praktik8](https://github.com/endangsirait/pert.12/assets/148036197/c5f830c8-2d41-49d0-89af-f9f64c64fecf)
+
+# <p> menghapus data</p>
+
+![praktik8 (2)](https://github.com/endangsirait/pert.12/assets/148036197/51223638-4819-48a3-915b-ace449b30355)
+
+# <p> mengubah data</p>
+
+![praktik8 (3)](https://github.com/endangsirait/pert.12/assets/148036197/e6bcd3e9-0702-4ce4-b565-5373108b5feb)
+
+# <p> keluar aplikasi</p>
+
+![praktik8 (4)](https://github.com/endangsirait/pert.12/assets/148036197/88d67a8e-f4f0-4c55-8d56-64fe4d9dfead)
+
+
 
