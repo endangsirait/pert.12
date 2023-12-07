@@ -10,6 +10,7 @@ README.md.</p>
 <p>• Commit dan push repository ke github.</p>
 
 # <p>masukkan kode program</p>
+
 def hapus(nama):
     print(f"{'Data Berhasil di Hapus':^17}")
     print('='*17)
