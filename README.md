@@ -109,5 +109,11 @@ print('Program Selesai')
 
 ![praktik8 (4)](https://github.com/endangsirait/pert.12/assets/148036197/88d67a8e-f4f0-4c55-8d56-64fe4d9dfead)
 
+# <p> Diagram class</p>
 
+<img width="415" alt="diagramclass" src="https://github.com/endangsirait/pert.12/assets/148036197/a10ce3aa-0e54-47c6-bd67-560f83871e26">
+
+# <p> flowchart</p>
+
+<img width="425" alt="Flowchart (1)" src="https://github.com/endangsirait/pert.12/assets/148036197/4b1109f3-735e-4d28-b35e-8d490dbc41c5">
 
